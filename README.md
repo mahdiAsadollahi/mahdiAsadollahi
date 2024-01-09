@@ -17,11 +17,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-<a href='' target="_blank"><img alt='Html5' src='https://img.shields.io/badge/Html-100000?style=flat&logo=Html5&logoColor=FF7C00&labelColor=FFFFFF&color=000000'/></a>
-<a href='' target="_blank"><img alt='css3' src='https://img.shields.io/badge/Css-100000?style=flat&logo=css3&logoColor=2385FE&labelColor=FFFFFF&color=000000'/></a>
 <a href='' target="_blank"><img alt='Javascript' src='https://img.shields.io/badge/Javascript-100000?style=flat&logo=Javascript&logoColor=FFEE00&labelColor=2F2F2F&color=000000'/></a>
-<a href='' target="_blank"><img alt='Bootstrap' src='https://img.shields.io/badge/Bootstrap-100000?style=flat&logo=Bootstrap&logoColor=035AC3&labelColor=FFFFFF&color=000000'/></a>
-<a href='' target="_blank"><img alt='Tailwindcss' src='https://img.shields.io/badge/Tailwind-100000?style=flat&logo=Tailwindcss&logoColor=2690FA&labelColor=FFFFFF&color=000000'/></a>
 <a href='' target="_blank"><img alt='React' src='https://img.shields.io/badge/React-100000?style=flat&logo=React&logoColor=08A5FF&labelColor=FFFFFF&color=1F1F1F'/></a>
 <a href='' target="_blank"><img alt='Redux' src='https://img.shields.io/badge/Redux-100000?style=flat&logo=Redux&logoColor=0066FF&labelColor=FFFFFF&color=000000'/></a>
 <a href='' target="_blank"><img alt='Next.js' src='https://img.shields.io/badge/Next.js-100000?style=flat&logo=Next.js&logoColor=000000&labelColor=FFFFFF&color=000000'/></a>
