@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 📫 How to reach me **mhdiAsdollahi@gmail.com** or **https://www.coffeete.ir/MahdiAsd**
+- 📫 How to reach me **mhdiAsdollahi@gmail.com**
 
-- 🍵 Buy me coffee **[https://www.coffeete.ir/MahdiAsd](https://www.coffeebede.com/mahdiasd)**
+- 🍵 Buy me coffee **[https://www.coffeete.ir/MahdiAsd](https://www.coffeebede.com/mahdiasd)** or **https://www.coffeete.ir/MahdiAsd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
