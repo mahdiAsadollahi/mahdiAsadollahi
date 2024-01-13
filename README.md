@@ -7,7 +7,8 @@
 
 - 📫 How to reach me **mhdiAsdollahi@gmail.com**
 
-- 🍵 Buy me coffee **[https://www.coffeebede.com/mahdiasd](https://www.coffeebede.com/mahdiasd)** **https://www.coffeete.ir/MahdiAsd**
+- 🍵 Buy me coffee **[https://www.coffeebede.com/mahdiasd](https://www.coffeebede.com/mahdiasd)**
+- or **https://www.coffeete.ir/MahdiAsd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
