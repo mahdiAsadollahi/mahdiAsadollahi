@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A passionate front-end developer from Iran</h3>
 
-- 👯 I’m looking to collaborate on **...**
+- 👯 I’m looking to collaborate on ...
 
 - 🌱 I’m currently learning **TypeScript**
 
