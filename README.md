@@ -1,26 +1,19 @@
-<h1 align="center">Hi 👋, I'm Mahdi</h1>
-<h3 align="center">A passionate front-end developer from Iran</h3>
+# Hi 👋, I'm Mahdi
 
-- 👯 I’m looking to collaborate on ...
+## 🌟 About Me
+I am a front-end developer from Iran who is passionate about creating attractive and user-friendly websites. Currently, I am learning **TypeScript** and looking to collaborate on interesting projects.
 
-- 🌱 I’m currently learning **TypeScript**
+## 📫 Contact Me
+- **Email**: [mhdiAsdollahi@gmail.com](mailto:mhdiAsdollahi@gmail.com)
+- **Telegram**: [MhdiDev](https://t.me/MhdiDev)
+- **Instagram**: [mhdi_.asd](https://www.instagram.com/mhdi_.asd)
 
-- 📫 How to reach me **mhdiAsdollahi@gmail.com**
+## 🍵 Support Me
+If you enjoy my work, you can buy me a coffee:
+<a href="https://www.coffeebede.com/mahdiasd"><img src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" alt="Buy me a coffee" /></a>
 
-- 🍵 Buy me coffee **[https://www.coffeebede.com/mahdiasd](https://www.coffeebede.com/mahdiasd)**
-or **https://www.coffeete.ir/MahdiAsd**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href='https://t.me/BeLikeYourSelf' target="_blank"><img alt='Telegram' src='https://img.shields.io/badge/BeLikeYourSelf-100000?style=for-the-badge&logo=Telegram&logoColor=34B4FF&labelColor=FFFFFF&color=593737'/></a></a>
-<a href='https://www.instagram/mhdi_.asd' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/mhdi_.asd-100000?style=for-the-badge&logo=Instagram&logoColor=FF0D0D&labelColor=FFFFFF&color=593737'/></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href='' target="_blank"><img alt='Javascript' src='https://img.shields.io/badge/Javascript-100000?style=flat&logo=Javascript&logoColor=FFEE00&labelColor=2F2F2F&color=000000'/></a>
-<a href='' target="_blank"><img alt='React' src='https://img.shields.io/badge/React-100000?style=flat&logo=React&logoColor=08A5FF&labelColor=FFFFFF&color=1F1F1F'/></a>
-<a href='' target="_blank"><img alt='Redux' src='https://img.shields.io/badge/Redux-100000?style=flat&logo=Redux&logoColor=0066FF&labelColor=FFFFFF&color=000000'/></a>
-<a href='' target="_blank"><img alt='Next.js' src='https://img.shields.io/badge/Next.js-100000?style=flat&logo=Next.js&logoColor=000000&labelColor=FFFFFF&color=000000'/></a>
- </p>
-
+## 🛠️ Languages and Tools
+- ![JavaScript](https://img.shields.io/badge/Javascript-100000?style=flat&logo=Javascript&logoColor=FFEE00&labelColor=2F2F2F&color=000000)
+- ![React](https://img.shields.io/badge/React-100000?style=flat&logo=React&logoColor=08A5FF&labelColor=FFFFFF&color=1F1F1F)
+- ![Redux](https://img.shields.io/badge/Redux-100000?style=flat&logo=Redux&logoColor=0066FF&labelColor=FFFFFF&color=000000)
+- ![Next.js](https://img.shields.io/badge/Next.js-100000?style=flat&logo=Next.js&logoColor=000000&labelColor=FFFFFF&color=000000)
