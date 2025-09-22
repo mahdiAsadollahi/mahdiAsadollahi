@@ -8,10 +8,6 @@ I am a front-end developer from Iran who is passionate about creating attractive
 - **Telegram**: [MhdiDev](https://t.me/MhdiDev)
 - **Instagram**: [mhdi_.asd](https://www.instagram.com/mhdi_.asd)
 
-## 🍵 Support Me
-If you enjoy my work, you can buy me a coffee:
-<a href="https://www.coffeebede.com/mahdiasd"><img src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" alt="Buy me a coffee" /></a>
-
 ## 🛠️ Languages and Tools
 - ![JavaScript](https://img.shields.io/badge/Javascript-100000?style=flat&logo=Javascript&logoColor=FFEE00&labelColor=2F2F2F&color=000000)
 - ![React](https://img.shields.io/badge/React-100000?style=flat&logo=React&logoColor=08A5FF&labelColor=FFFFFF&color=1F1F1F)
