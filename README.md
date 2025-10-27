@@ -1,15 +1,23 @@
-# Hi 👋, I'm Mahdi
+# Mahdi Asadollahi
 
-## 🌟 About Me
-I am a front-end developer from Iran who is passionate about creating attractive and user-friendly websites. Currently, I am learning **TypeScript** and looking to collaborate on interesting projects.
+**Front-End Developer**
 
-## 📫 Contact Me
-- **Email**: [mhdiAsdollahi@gmail.com](mailto:mhdiAsdollahi@gmail.com)
-- **Telegram**: [MhdiDev](https://t.me/MhdiDev)
-- **Instagram**: [mhdiasadollahii](https://www.instagram.com/mhdiasadollahii)
+## About Me
+Front-end developer focused on creating clean, efficient, and user-friendly web applications. I specialize in modern JavaScript technologies and constantly work on improving my technical knowledge and problem-solving skills.
 
-## 🛠️ Languages and Tools
-- ![JavaScript](https://img.shields.io/badge/Javascript-100000?style=flat&logo=Javascript&logoColor=FFEE00&labelColor=2F2F2F&color=000000)
-- ![React](https://img.shields.io/badge/React-100000?style=flat&logo=React&logoColor=08A5FF&labelColor=FFFFFF&color=1F1F1F)
-- ![Redux](https://img.shields.io/badge/Redux-100000?style=flat&logo=Redux&logoColor=0066FF&labelColor=FFFFFF&color=000000)
-- ![Next.js](https://img.shields.io/badge/Next.js-100000?style=flat&logo=Next.js&logoColor=000000&labelColor=FFFFFF&color=000000)
+## Skills
+
+### Front-End Development
+- HTML, CSS, JavaScript
+- React, Next.js
+- Tailwind CSS, Bootstrap
+- Electron.js
+
+### Back-End Knowledge
+- Node.js, Express.js
+- MongoDB, MySQL, SQLite
+
+## Contact
+- **Email:** mhdiAsdollahi@gmail.com
+- **Telegram:** https://t.me/MhdiDev
+- **Instagram:** https://www.instagram.com/mhdiasadollahii
